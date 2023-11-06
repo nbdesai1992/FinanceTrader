@@ -1,0 +1,2 @@
+# FinanceTrader
+Stock trading backtester. 
